@@ -1,0 +1,13 @@
+export { default as Billing } from "../components/Billing";
+export { default as Business } from "../components/Business";
+export { default as Button } from "../components/Button";
+export { default as CardDeal } from "../components/CardDeal";
+export { default as Clients } from "../components/Clients";
+export { default as CTA } from "../components/CTA";
+export { default as FeedbackCard } from "../components/FeedbackCard";
+export { default as Footer } from "../components/Footer";
+export { default as GetStarted } from "../components/GetStarted";
+export { default as Hero } from "../components/Hero";
+export { default as Navbar } from "../components/Navbar";
+export { default as Stats } from "../components/Stats";
+export { default as Testimonials } from "../components/Testimonials";
